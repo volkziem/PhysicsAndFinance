@@ -1,7 +1,5 @@
-MATLAB Live scripts 
+MATLAB Live scripts for *Physics and Finance*
 ===================
-
-### [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/) applies to all software and documentation on this page.
 
 The live scripts (with file extension .mlx) are specially prepared
 MATLAB files that contain text explanations, images as well as
@@ -12,15 +10,9 @@ everything, input as well as output, including plots.
 
 ------------------------------------------------------------------------
 
-------------------------------------------------------------------------
 
-Volker Ziemann, *Physics and Finance*
--------------------------------------
-
-The book was published by
-[Springer](https://link.springer.com/book/10.1007/978-3-030-63643-2) in
-March 2021 as part in the Series of [Undegraduate Lecture Notes in
-Physics](https://www.springer.com/series/8917).
+My book [*Physics and Finance*](https://link.springer.com/book/10.1007/978-3-030-63643-2) was published by Springer in
+March 2021 as part in the Series of [Undegraduate Lecture Notes in Physics](https://www.springer.com/series/8917).
 
 #### Chapter 2: Portfolio theory and CAPM
 
