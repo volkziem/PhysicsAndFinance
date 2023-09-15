@@ -12,7 +12,8 @@ everything, input as well as output, including plots.
 
 
 My book [*Physics and Finance*](https://link.springer.com/book/10.1007/978-3-030-63643-2) was published by Springer in
-March 2021 as part in the Series of [Undegraduate Lecture Notes in Physics](https://www.springer.com/series/8917).
+March 2021 as part in the Series of [Undegraduate Lecture Notes in Physics](https://www.springer.com/series/8917). The
+[German translation](https://link.springer.com/book/9783031369636) will appear in October 2023.
 
 #### Chapter 2: Portfolio theory and CAPM
 
