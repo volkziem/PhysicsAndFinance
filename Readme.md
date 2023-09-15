@@ -17,16 +17,16 @@ March 2021 as part in the Series of [Undegraduate Lecture Notes in Physics](http
 #### Chapter 2: Portfolio theory and CAPM
 
 -   [Markowitz portfolio
-    optimization](paf/MarkowitzPortfolioOptimization.html) for
+    optimization](MarkowitzPortfolioOptimization.html) for
     portfolios with risky assets only and with a risk-free asset
-    included: [live script](paf/MarkowitzPortfolioOptimization.mlx) and
-    [pdf](paf/MarkowitzPortfolioOptimization.pdf).
+    included: [live script](MarkowitzPortfolioOptimization.mlx) and
+    [pdf](MarkowitzPortfolioOptimization.pdf).
 
 #### Chapter 4: Stochastic processes
 
--   [Log-normal distribution function](paf/LogNormalExplorer.html)
-    explorer: [live script](paf/LogNormalExplorer.mlx) and
-    [pdf](paf/LogNormalExplorer.pdf).
+-   [Log-normal distribution function](LogNormalExplorer.html)
+    explorer: [live script](LogNormalExplorer.mlx) and
+    [pdf](LogNormalExplorer.pdf).
 
 #### Chapter 5: Black-Scholes differential equation
 
